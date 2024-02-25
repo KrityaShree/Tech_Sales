@@ -1,14 +1,11 @@
-# Tech_Sales
+# NPS Prediction Project
 This project was done from April 2023 to May 2023
-
-```markdown
-# NPS Prediction Project ReadMe
 
 ## Objective
 The objective of this project is to develop a logistic regression model for predicting if a sales rep will score an NPS of 9 or more using data from employees in the software product group with a college degree.
 
 ## Summary
-- Explored logistic regression, Random Forest, and SVM algorithms for NPS prediction.
+- Explored logistic regression, Random Forest and SVM algorithms for NPS prediction.
 - Logistic regression showed an accuracy ranging from 80% to 82%, with Model 3 having the highest accuracy of 82%.
 - Random Forest and SVM did not outperform logistic regression, achieving maximum accuracies of 80.36% and 80.80% respectively.
 - Interaction terms were included in some models to capture non-linear relationships, but did not significantly improve performance.
@@ -28,4 +25,3 @@ The objective of this project is to develop a logistic regression model for pred
 - Further explore feature engineering and interaction terms to improve model performance.
 - Experiment with different algorithms and ensemble methods.
 - Investigate additional data sources or variables for better prediction accuracy.
-```
