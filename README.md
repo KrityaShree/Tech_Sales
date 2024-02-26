@@ -25,3 +25,9 @@ The objective of this project is to develop a logistic regression model for pred
 - Further explore feature engineering and interaction terms to improve model performance.
 - Experiment with different algorithms and ensemble methods.
 - Investigate additional data sources or variables for better prediction accuracy.
+
+## Tools Used
+- R
+- RStudio
+- Tableau
+- Excel
